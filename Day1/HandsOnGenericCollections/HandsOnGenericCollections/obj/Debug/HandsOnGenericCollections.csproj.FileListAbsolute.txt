@@ -1,0 +1,7 @@
+D:\IIHT\SOCGEN\Day1\HandsOnGenericCollections\HandsOnGenericCollections\bin\Debug\HandsOnGenericCollections.exe.config
+D:\IIHT\SOCGEN\Day1\HandsOnGenericCollections\HandsOnGenericCollections\bin\Debug\HandsOnGenericCollections.exe
+D:\IIHT\SOCGEN\Day1\HandsOnGenericCollections\HandsOnGenericCollections\bin\Debug\HandsOnGenericCollections.pdb
+D:\IIHT\SOCGEN\Day1\HandsOnGenericCollections\HandsOnGenericCollections\obj\Debug\HandsOnGenericCollections.csprojAssemblyReference.cache
+D:\IIHT\SOCGEN\Day1\HandsOnGenericCollections\HandsOnGenericCollections\obj\Debug\HandsOnGenericCollections.csproj.CoreCompileInputs.cache
+D:\IIHT\SOCGEN\Day1\HandsOnGenericCollections\HandsOnGenericCollections\obj\Debug\HandsOnGenericCollections.exe
+D:\IIHT\SOCGEN\Day1\HandsOnGenericCollections\HandsOnGenericCollections\obj\Debug\HandsOnGenericCollections.pdb

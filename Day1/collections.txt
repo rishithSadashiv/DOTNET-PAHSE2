@@ -1,0 +1,33 @@
+Collections
+-----------
+It is a group of values of group of objects
+collections are dynamic size
+collections are overcome the problems of array
+collections are like data structures
+In C# all collections are availabe in classes and Interfaces
+collections are 2 types
+------------------------
+1.Non Generic Collections
+any kind of data stores here.
+It holds any kind of data in the form of object
+System.Collections
+------------------
+ArrayList(Index based)
+HashTable(Key based)(key-value pair)
+SortedList(Key based)(data arranges sorted order of the key)
+Stack(LIFO)
+Queue(FIFO)
+2.Generic Collections(C# 2.0)
+----------------------
+Generic Collections can hold data of same type like arrays
+System.Collections.Generic
+
+List<T>(Index based)---------------------------------Arraylist
+List<int> list1=new List<int>()
+List<string> list2=new List<string>()
+List<Employee> list3=new List<Employee>()
+Dictionary<K,V>(keybased)---------------------------HashTable
+SortedList<K,V>--------------------------------------SoredList
+Stack<T>------------------------------------------------Stack
+Queue<T>------------------------------------------------Queue
+

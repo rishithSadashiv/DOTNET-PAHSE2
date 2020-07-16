@@ -1,0 +1,29 @@
+--install Angular CLI
+1.Open cmd
+2.npm install -g @angular/cli
+3.ng version
+--create new angular app
+ng new app_name
+--run angular app
+ng serve (default 4200)
+ng serve --open
+ng s -o
+ng s -o --port 1234
+
+Create new Component
+--------------------
+ng g component component_name
+ng g c component_name
+
+Create Class/Model
+------------------
+ng g class class_name
+Editors
+------
+Visual Studio Code
+Visual Studio 2019
+
+Register page(Register-Component)
+Login page(Login-Componenet)
+Feedback page(Feedback-Complonent)
+Feedback list

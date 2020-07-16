@@ -1,0 +1,7 @@
+Employee(Eid(Pk),Ename,JoinDate,Project(FK))
+Project(Pid,Project)
+EmployeeService
+Model(Employee,Project)
+ProjectService
+Write CRUD functions in each microservice wrt to model
+Note:Runtime Connect all the microservcies using Gateway

@@ -1,0 +1,13 @@
+FileHandling
+-----------
+Manage file data(reading and writing)
+System.IO
+--------
+Manage Files(Create,Move,Remove,Read,Write)
+Manage Directoreis(Create,Move,REmove)
+StreamReader(Reads data from a file)
+StreamWriter(Writes data to the file)
+File
+Directory
+DirectoryInfo
+FileStream

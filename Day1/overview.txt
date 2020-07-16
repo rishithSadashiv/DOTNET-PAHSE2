@@ -1,0 +1,54 @@
+.Net Framework
+--------------
+Web Apps(internet apps)
+Winforms Apps(desktop apps)
+service apps
+Mobile Apps
+
+.Net Framework Components
+------------------------
+Languages(C#.net,Vb.net,VC++,F#.net)
+Technologies(Asp.net,Asp.net MVC)(Web Application development)
+(Ado.net and Entity Framework)(Data Communction with any database(Sql(sqlserver,mysql,oracle),Nosql(MongoDB))
+(Winforms,WPF)(desktop application development)
+(WCF,WEB API)(service application development)
+CLR
+
+C#.net
+-----
+Datatypes
+variable declartion
+type conversion
+operators,condirional statments and iterators(while,do-whie,for,foreach)
+arrays
+strings
+classes and objects
+class members(variables,methods,props,constructors)
+inhertiance
+polymorphism
+type of classes
+exception handling
+Advance
+-------
+Interfaces
+collections
+Filehandling
+delegates
+
+
+C#.net
+VB.net
+Winfomrs
+Entity Framework Core
+SQL SERVER
+MongoDB
+
+
+Base Course .NET
+>> Learning Relational Databases
+>> SQL Essential Training
+>> Learning MongoDB
+>> .NET for Beginners
+>> VB.NET with VS 2017 and Windows Forms
+>> Learning Entity Framework Core
+>> Design Patterns using C# and .NET Core

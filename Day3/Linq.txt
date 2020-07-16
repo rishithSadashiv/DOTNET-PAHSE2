@@ -1,0 +1,17 @@
+LINQ(Langular Integrated Query)(.Net 3.5)
+-----------------------------
+tables(sql queries)
+excel
+xml
+collections
+Linq is the unique query programing lang to query data from diff data sources(table,xml,collections etc)
+LINQ with Objects
+LINQ with SQL
+LINQ with Entities
+LINQ with XML
+
+system.Linq
+int i;
+i=0;
+i=null
+string s=null

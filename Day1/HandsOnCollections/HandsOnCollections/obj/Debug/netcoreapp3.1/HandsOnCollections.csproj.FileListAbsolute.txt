@@ -1,0 +1,13 @@
+D:\IIHT\SOCGEN\Day1\HandsOnCollections\HandsOnCollections\bin\Debug\netcoreapp3.1\HandsOnCollections.exe
+D:\IIHT\SOCGEN\Day1\HandsOnCollections\HandsOnCollections\bin\Debug\netcoreapp3.1\HandsOnCollections.deps.json
+D:\IIHT\SOCGEN\Day1\HandsOnCollections\HandsOnCollections\bin\Debug\netcoreapp3.1\HandsOnCollections.runtimeconfig.json
+D:\IIHT\SOCGEN\Day1\HandsOnCollections\HandsOnCollections\bin\Debug\netcoreapp3.1\HandsOnCollections.runtimeconfig.dev.json
+D:\IIHT\SOCGEN\Day1\HandsOnCollections\HandsOnCollections\bin\Debug\netcoreapp3.1\HandsOnCollections.dll
+D:\IIHT\SOCGEN\Day1\HandsOnCollections\HandsOnCollections\bin\Debug\netcoreapp3.1\HandsOnCollections.pdb
+D:\IIHT\SOCGEN\Day1\HandsOnCollections\HandsOnCollections\obj\Debug\netcoreapp3.1\HandsOnCollections.csprojAssemblyReference.cache
+D:\IIHT\SOCGEN\Day1\HandsOnCollections\HandsOnCollections\obj\Debug\netcoreapp3.1\HandsOnCollections.AssemblyInfoInputs.cache
+D:\IIHT\SOCGEN\Day1\HandsOnCollections\HandsOnCollections\obj\Debug\netcoreapp3.1\HandsOnCollections.AssemblyInfo.cs
+D:\IIHT\SOCGEN\Day1\HandsOnCollections\HandsOnCollections\obj\Debug\netcoreapp3.1\HandsOnCollections.csproj.CoreCompileInputs.cache
+D:\IIHT\SOCGEN\Day1\HandsOnCollections\HandsOnCollections\obj\Debug\netcoreapp3.1\HandsOnCollections.dll
+D:\IIHT\SOCGEN\Day1\HandsOnCollections\HandsOnCollections\obj\Debug\netcoreapp3.1\HandsOnCollections.pdb
+D:\IIHT\SOCGEN\Day1\HandsOnCollections\HandsOnCollections\obj\Debug\netcoreapp3.1\HandsOnCollections.genruntimeconfig.cache

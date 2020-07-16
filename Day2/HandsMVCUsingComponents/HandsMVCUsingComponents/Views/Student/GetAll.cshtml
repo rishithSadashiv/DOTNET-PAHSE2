@@ -1,0 +1,22 @@
+﻿@model List<HandsMVCUsingComponents.Models.Student>
+@{
+    ViewData["Title"] = "GetAll";
+}
+
+<h1>List</h1>
+<div class="container">
+    <table class="table table-bordered">
+        <tr>
+            <th>ID</th><th>Name</th><th>Age</th><th></th>
+        </tr>
+@foreach(var item in Model)
+{
+    <tr>
+        <td>@item.Sid</td>
+        <td>@item.Sname</td>
+        <td>@item.Age</td>
+        <td><a href="Details?uid=@item.Sid">ViewInfo</a></td>
+    </tr>
+}
+    </table>
+</div>

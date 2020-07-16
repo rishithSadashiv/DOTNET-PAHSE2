@@ -1,0 +1,7 @@
+D:\IIHT\SOCGEN\Batch1\Day3\HandsOnLinq\HandsOnLinq\bin\Debug\HandsOnLinq.exe.config
+D:\IIHT\SOCGEN\Batch1\Day3\HandsOnLinq\HandsOnLinq\bin\Debug\HandsOnLinq.exe
+D:\IIHT\SOCGEN\Batch1\Day3\HandsOnLinq\HandsOnLinq\bin\Debug\HandsOnLinq.pdb
+D:\IIHT\SOCGEN\Batch1\Day3\HandsOnLinq\HandsOnLinq\obj\Debug\HandsOnLinq.csprojAssemblyReference.cache
+D:\IIHT\SOCGEN\Batch1\Day3\HandsOnLinq\HandsOnLinq\obj\Debug\HandsOnLinq.csproj.CoreCompileInputs.cache
+D:\IIHT\SOCGEN\Batch1\Day3\HandsOnLinq\HandsOnLinq\obj\Debug\HandsOnLinq.exe
+D:\IIHT\SOCGEN\Batch1\Day3\HandsOnLinq\HandsOnLinq\obj\Debug\HandsOnLinq.pdb

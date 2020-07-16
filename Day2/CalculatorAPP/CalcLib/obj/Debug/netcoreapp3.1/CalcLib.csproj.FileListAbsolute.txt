@@ -1,0 +1,9 @@
+D:\IIHT\SOCGEN\Batch1\Day2\CalculatorAPP\CalcLib\bin\Debug\netcoreapp3.1\CalcLib.deps.json
+D:\IIHT\SOCGEN\Batch1\Day2\CalculatorAPP\CalcLib\bin\Debug\netcoreapp3.1\CalcLib.dll
+D:\IIHT\SOCGEN\Batch1\Day2\CalculatorAPP\CalcLib\bin\Debug\netcoreapp3.1\CalcLib.pdb
+D:\IIHT\SOCGEN\Batch1\Day2\CalculatorAPP\CalcLib\obj\Debug\netcoreapp3.1\CalcLib.csprojAssemblyReference.cache
+D:\IIHT\SOCGEN\Batch1\Day2\CalculatorAPP\CalcLib\obj\Debug\netcoreapp3.1\CalcLib.AssemblyInfoInputs.cache
+D:\IIHT\SOCGEN\Batch1\Day2\CalculatorAPP\CalcLib\obj\Debug\netcoreapp3.1\CalcLib.AssemblyInfo.cs
+D:\IIHT\SOCGEN\Batch1\Day2\CalculatorAPP\CalcLib\obj\Debug\netcoreapp3.1\CalcLib.csproj.CoreCompileInputs.cache
+D:\IIHT\SOCGEN\Batch1\Day2\CalculatorAPP\CalcLib\obj\Debug\netcoreapp3.1\CalcLib.dll
+D:\IIHT\SOCGEN\Batch1\Day2\CalculatorAPP\CalcLib\obj\Debug\netcoreapp3.1\CalcLib.pdb

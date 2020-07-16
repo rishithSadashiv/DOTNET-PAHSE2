@@ -1,0 +1,7 @@
+D:\IIHT\SOCGEN\Batch1\Day2\HandsOnDelegates\HandsOnDelegates\bin\Debug\HandsOnDelegates.exe.config
+D:\IIHT\SOCGEN\Batch1\Day2\HandsOnDelegates\HandsOnDelegates\bin\Debug\HandsOnDelegates.exe
+D:\IIHT\SOCGEN\Batch1\Day2\HandsOnDelegates\HandsOnDelegates\bin\Debug\HandsOnDelegates.pdb
+D:\IIHT\SOCGEN\Batch1\Day2\HandsOnDelegates\HandsOnDelegates\obj\Debug\HandsOnDelegates.csprojAssemblyReference.cache
+D:\IIHT\SOCGEN\Batch1\Day2\HandsOnDelegates\HandsOnDelegates\obj\Debug\HandsOnDelegates.csproj.CoreCompileInputs.cache
+D:\IIHT\SOCGEN\Batch1\Day2\HandsOnDelegates\HandsOnDelegates\obj\Debug\HandsOnDelegates.exe
+D:\IIHT\SOCGEN\Batch1\Day2\HandsOnDelegates\HandsOnDelegates\obj\Debug\HandsOnDelegates.pdb

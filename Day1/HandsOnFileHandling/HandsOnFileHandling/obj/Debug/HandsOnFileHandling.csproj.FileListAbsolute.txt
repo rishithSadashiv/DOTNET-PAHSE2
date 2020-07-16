@@ -1,0 +1,14 @@
+D:\IIHT\SOCGEN\Day1\HandsOnFileHandling\HandsOnFileHandling\bin\Debug\HandsOnFileHandling.exe.config
+D:\IIHT\SOCGEN\Day1\HandsOnFileHandling\HandsOnFileHandling\bin\Debug\HandsOnFileHandling.exe
+D:\IIHT\SOCGEN\Day1\HandsOnFileHandling\HandsOnFileHandling\bin\Debug\HandsOnFileHandling.pdb
+D:\IIHT\SOCGEN\Day1\HandsOnFileHandling\HandsOnFileHandling\obj\Debug\HandsOnFileHandling.csprojAssemblyReference.cache
+D:\IIHT\SOCGEN\Day1\HandsOnFileHandling\HandsOnFileHandling\obj\Debug\HandsOnFileHandling.csproj.CoreCompileInputs.cache
+D:\IIHT\SOCGEN\Day1\HandsOnFileHandling\HandsOnFileHandling\obj\Debug\HandsOnFileHandling.exe
+D:\IIHT\SOCGEN\Day1\HandsOnFileHandling\HandsOnFileHandling\obj\Debug\HandsOnFileHandling.pdb
+D:\IIHT\SOCGEN\Batch1\Day1\HandsOnFileHandling\HandsOnFileHandling\bin\Debug\HandsOnFileHandling.exe.config
+D:\IIHT\SOCGEN\Batch1\Day1\HandsOnFileHandling\HandsOnFileHandling\bin\Debug\HandsOnFileHandling.exe
+D:\IIHT\SOCGEN\Batch1\Day1\HandsOnFileHandling\HandsOnFileHandling\bin\Debug\HandsOnFileHandling.pdb
+D:\IIHT\SOCGEN\Batch1\Day1\HandsOnFileHandling\HandsOnFileHandling\obj\Debug\HandsOnFileHandling.csprojAssemblyReference.cache
+D:\IIHT\SOCGEN\Batch1\Day1\HandsOnFileHandling\HandsOnFileHandling\obj\Debug\HandsOnFileHandling.csproj.CoreCompileInputs.cache
+D:\IIHT\SOCGEN\Batch1\Day1\HandsOnFileHandling\HandsOnFileHandling\obj\Debug\HandsOnFileHandling.exe
+D:\IIHT\SOCGEN\Batch1\Day1\HandsOnFileHandling\HandsOnFileHandling\obj\Debug\HandsOnFileHandling.pdb
