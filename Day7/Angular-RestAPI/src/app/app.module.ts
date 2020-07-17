@@ -6,11 +6,13 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ProductViewComponent } from './product-view/product-view.component';
 import { ProductService } from './Shared/product.service';
+import { NotFoundComponent } from './not-found/not-found.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    ProductViewComponent
+    ProductViewComponent,
+    NotFoundComponent
   ],
   imports: [
     BrowserModule,

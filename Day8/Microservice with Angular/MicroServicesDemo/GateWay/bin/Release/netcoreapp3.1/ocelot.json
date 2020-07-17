@@ -32,7 +32,7 @@
 			"DownstreamHostAndPorts": [
 				{
 					"Host": "localhost",
-					"Port": 50493
+					"Port": 5004
 				}
 			],
 			"UpstreamPathTemplate": "/Login/{catchAll}"

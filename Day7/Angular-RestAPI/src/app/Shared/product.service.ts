@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { HttpClient } from "@angular/common/http";
+import { HttpClient,HttpHeaderResponse } from "@angular/common/http";
 import {  Observable} from "rxjs";
 import { Product } from '../Models/product';
 @Injectable({
@@ -13,10 +13,10 @@ export class ProductService {
   {
     return this.http.get<Product[]>(this.path+"GetAll")
   }
-  public Get(pid:number):Observable<Product>
+  public Get(pid:number):Observable<any>
   {
     console.log(pid);
-    return this.http.get<Product>(this.path+'GetById/'+pid)
+    return this.http.get<any>(this.path+'GetById/'+pid)
   }
   public Add(item:Product)
   {

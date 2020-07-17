@@ -2,6 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import { Product } from '../Models/product';
 import { ProductService } from '../Shared/product.service';
 
+import { Router } from '@angular/router';
+
 
 @Component({
   selector: 'app-product-view',
@@ -16,7 +18,7 @@ price:number;
 stock:number;
 obj:Product;
 errmsg:string;
-  constructor(private service:ProductService) {
+  constructor(private service:ProductService,private router:Router) {
     this.service.GetAll().subscribe(i=>{
       this.list=i
       console.log(this.list)
@@ -28,19 +30,23 @@ errmsg:string;
   Search()
   {
     this.service.Get(this.pid).subscribe(item=>{
-      this.obj=item;
-      console.log(this.obj);
-      if(this.obj!=null)
-      {
+
+      console.log(item);
+this.obj=item;
       this.pname=this.obj.pname;
       this.stock=this.obj.stock;
       this.price=this.obj.price;
       this.errmsg="";
-      }
-      else
-      {
-        this.errmsg="Invalid Id";
-      }
+    },
+    (error)=>{
+      console.log(error);
+console.log(error.error);
+console.log(error.status);
+console.log(error.statusText);
+if(error.status==404)
+{
+  this.router.navigateByUrl("/notfound")
+}
     })
 
   }
@@ -50,7 +56,12 @@ errmsg:string;
    this.obj.pname=this.pname;
    this.obj.price=this.price;
    this.obj.stock=this.stock;
-  this.service.Add(this.obj).subscribe()
+  this.service.Add(this.obj).subscribe((response)=>
+  {
+  },(error)=>{
+    console.log(error)
+    console.log(error.error.text)
+  })
   }
   public Update()
   {

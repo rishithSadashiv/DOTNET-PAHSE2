@@ -7,7 +7,7 @@ import { Token } from '../token';
   providedIn: 'root'
 })
 export class AuthService {
-url:string='http://localhost/Gateway/Login/Validate/'
+url:string='http://localhost:5003/Login/Validate/'
   constructor(private service:HttpClient) { }
   public Validate(uname:string,pwd:string):Observable<Token>
   {

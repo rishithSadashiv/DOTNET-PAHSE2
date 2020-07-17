@@ -79,9 +79,6 @@ D:\IIHT\SOCGEN\Batch1\Day8\Microservice with Angular\MicroServicesDemo\GateWay\b
 D:\IIHT\SOCGEN\Batch1\Day8\Microservice with Angular\MicroServicesDemo\GateWay\obj\Release\netcoreapp3.1\GateWay.csprojAssemblyReference.cache
 D:\IIHT\SOCGEN\Batch1\Day8\Microservice with Angular\MicroServicesDemo\GateWay\obj\Release\netcoreapp3.1\GateWay.AssemblyInfoInputs.cache
 D:\IIHT\SOCGEN\Batch1\Day8\Microservice with Angular\MicroServicesDemo\GateWay\obj\Release\netcoreapp3.1\GateWay.AssemblyInfo.cs
-D:\IIHT\SOCGEN\Batch1\Day8\Microservice with Angular\MicroServicesDemo\GateWay\obj\Release\netcoreapp3.1\GateWay.csproj.CoreCompileInputs.cache
-D:\IIHT\SOCGEN\Batch1\Day8\Microservice with Angular\MicroServicesDemo\GateWay\obj\Release\netcoreapp3.1\GateWay.MvcApplicationPartsAssemblyInfo.cs
-D:\IIHT\SOCGEN\Batch1\Day8\Microservice with Angular\MicroServicesDemo\GateWay\obj\Release\netcoreapp3.1\GateWay.MvcApplicationPartsAssemblyInfo.cache
 D:\IIHT\SOCGEN\Batch1\Day8\Microservice with Angular\MicroServicesDemo\GateWay\obj\Release\netcoreapp3.1\GateWay.RazorTargetAssemblyInfo.cache
 D:\IIHT\SOCGEN\Batch1\Day8\Microservice with Angular\MicroServicesDemo\GateWay\obj\Release\netcoreapp3.1\GateWay.csproj.CopyComplete
 D:\IIHT\SOCGEN\Batch1\Day8\Microservice with Angular\MicroServicesDemo\GateWay\obj\Release\netcoreapp3.1\staticwebassets\GateWay.StaticWebAssets.Manifest.cache
@@ -89,3 +86,6 @@ D:\IIHT\SOCGEN\Batch1\Day8\Microservice with Angular\MicroServicesDemo\GateWay\o
 D:\IIHT\SOCGEN\Batch1\Day8\Microservice with Angular\MicroServicesDemo\GateWay\obj\Release\netcoreapp3.1\GateWay.dll
 D:\IIHT\SOCGEN\Batch1\Day8\Microservice with Angular\MicroServicesDemo\GateWay\obj\Release\netcoreapp3.1\GateWay.pdb
 D:\IIHT\SOCGEN\Batch1\Day8\Microservice with Angular\MicroServicesDemo\GateWay\obj\Release\netcoreapp3.1\GateWay.genruntimeconfig.cache
+D:\IIHT\SOCGEN\Batch1\Day8\Microservice with Angular\MicroServicesDemo\GateWay\obj\Release\netcoreapp3.1\GateWay.csproj.CoreCompileInputs.cache
+D:\IIHT\SOCGEN\Batch1\Day8\Microservice with Angular\MicroServicesDemo\GateWay\obj\Release\netcoreapp3.1\GateWay.MvcApplicationPartsAssemblyInfo.cs
+D:\IIHT\SOCGEN\Batch1\Day8\Microservice with Angular\MicroServicesDemo\GateWay\obj\Release\netcoreapp3.1\GateWay.MvcApplicationPartsAssemblyInfo.cache
