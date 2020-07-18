@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HCMeDjn/yY8W+/92uDajmw8NoCQ35ZWngPOuasMUgcGuMOwMd3ZgAy/lhHjkhUXttK4LvlW0NiD4xD6N3MeUyA==",
+  "success": true,
+  "projectFilePath": "D:\\IIHT\\SOCGEN\\Batch1\\Day10\\DockerApp\\DockerApp\\DockerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SANTHOSH\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

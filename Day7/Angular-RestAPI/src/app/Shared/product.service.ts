@@ -7,7 +7,7 @@ import { Product } from '../Models/product';
 })
 export class ProductService {
 
-  path:string="http://localhost:58034/api/Product/"
+  path:string="http://localhost:4545/api/Product/"
   constructor(private http:HttpClient) { }
   public GetAll():Observable<Product[]>
   {
